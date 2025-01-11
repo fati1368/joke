@@ -36,7 +36,7 @@ button:hover {
 
 ul {
   list-style-type: none;
-  padding: 0;
+  padding: 30px;
   background-color: #ccc;
   position: relative;
   z-index: 1;
